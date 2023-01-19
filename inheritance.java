@@ -1,3 +1,16 @@
+// This is Not working
+
+// It was created just to show example of instanceof() method
+
+/* 
+ _       _          _______
+| |\    | |        / /---\ \
+| | \   | |       / /     \ \
+| |  \  | |      | |       | |
+| |   \ | |      \ \_______/ /
+|_|    \|_|       \_\_____/_/ 
+*/
+
 public class inheritance{
     public class Parent{};
     public class Child extends Parent{}; // inheritance
