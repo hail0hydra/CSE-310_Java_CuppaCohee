@@ -10,7 +10,8 @@
 public class cup{}
 ```
 <br>
-- ___Inside___ class `cup` wtire your code.
+
+- ___Inside___ class `cup` write your code.
 
 
 <br>
