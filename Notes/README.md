@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- This directory contains Notes That I made in `Markdown` using the `![neovim](https://neovim.io/)` editor in `Windows 10` OS.
+- This directory contains Notes That I made in `Markdown` using the ![neovim](https://neovim.io/) editor in `Windows 10` OS.
 
 <br>
 
