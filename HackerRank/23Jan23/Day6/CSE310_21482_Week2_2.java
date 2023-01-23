@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CSE310_21482_Week2_2{
+public class Solution{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
