@@ -1,6 +1,7 @@
 # CSE 310 - Java Series :tea:
+![Test Image](https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png =500x)
 
-![Test Image](https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png)
+<!-- ![tes](https://dev.java/assets/images/java-logo-vert-blk.png =250x) -->
 
 <br>
 <br>
