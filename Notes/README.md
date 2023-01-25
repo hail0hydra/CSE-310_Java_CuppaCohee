@@ -7,4 +7,5 @@
 
 <br>
 
-![Notes](https://i.imgur.com/dafiFru.jpeg)
+<!-- ![Notes](https://i.imgur.com/dafiFru.jpeg) -->
+<img src="https://i.imgur.com/dafiFru.jpeg" alt=notes style="height:400px;">
