@@ -1,3 +1,7 @@
+package music;
+
+import java.util.*;
+
 public class Song{
     String title;
     double duration;
@@ -15,13 +19,13 @@ public class Song{
         return title;
     }
 
-    public String getDuration() {
+    public double getDuration() {
         return duration;
     }
 
     public String toString(){
         return "Song{" +
-               "title'" + title + '\'' +
+               "title=" + title + '\'' +
                ", duration=" + duration +
                '}';
     }
