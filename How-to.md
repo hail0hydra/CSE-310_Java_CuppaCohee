@@ -36,3 +36,19 @@ java cup
 <br>
 
 - Giving the name of the `parent class`
+
+<br>
+<br>
+
+
+- you can create a `package` ie `direcotry` and put your java files in there. After that just put the following line in all java files within the package.
+
+```java
+package package-name;
+```
+
+- And then compile the whole project by coming out of the directory and:
+
+```powershell
+javac package-name
+```
