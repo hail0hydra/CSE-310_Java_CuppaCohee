@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "count": 4
+    },
+    "data": [
+        {
+            "attributes": {
+                "date": 1521381148,
+                "verdict": "malicious",
+                "value": -34
+            },
+            "type": "vote",
+            "id": "f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-90db3ff5",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/votes/f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-90db3ff5"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1518961221,
+                "verdict": "malicious",
+                "value": -1
+            },
+            "type": "vote",
+            "id": "f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-eefc6e0e",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/votes/f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-eefc6e0e"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1476099315,
+                "verdict": "malicious",
+                "value": -30
+            },
+            "type": "vote",
+            "id": "f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-294de355",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/votes/f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-294de355"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1430288879,
+                "verdict": "malicious",
+                "value": -1
+            },
+            "type": "vote",
+            "id": "f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-fe72d4e3",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/votes/f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-fe72d4e3"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://www.virustotal.com/api/v3/files/4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0/votes?limit=10"
+    }
+}

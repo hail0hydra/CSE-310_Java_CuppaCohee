@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "count": 2
+    },
+    "data": [
+        {
+            "attributes": {
+                "date": 1521381163,
+                "text": "Fork bomb - causes the system to crash",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "Fork bomb - causes the system to crash",
+                "tags": []
+            },
+            "type": "comment",
+            "id": "f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-c1c9eab2",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-c1c9eab2"
+            }
+        },
+        {
+            "attributes": {
+                "date": 1518961213,
+                "text": "Wtf WHYYYY",
+                "votes": {
+                    "positive": 0,
+                    "abuse": 0,
+                    "negative": 0
+                },
+                "html": "Wtf WHYYYY",
+                "tags": []
+            },
+            "type": "comment",
+            "id": "f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-580d2fc6",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/f-4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0-580d2fc6"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://www.virustotal.com/api/v3/files/4305b80fe6c8b71e12cfe14b19e94127e4825d6b8ade1cb544eee4836cbf7af0/comments?limit=10"
+    }
+}

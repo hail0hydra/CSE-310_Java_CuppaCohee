@@ -1,0 +1,56 @@
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus.bat
+Malicious count: 14
+Timestamp: Tue Apr 25 11:42:24 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus4.vbs
+Malicious count: 6
+Timestamp: Tue Apr 25 11:48:17 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus.bat
+Malicious count: 14
+Timestamp: Tue Apr 25 12:21:36 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus2.bat
+Malicious count: 2
+Timestamp: Tue Apr 25 12:31:40 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus.bat
+Malicious count: 14
+Timestamp: Tue Apr 25 19:59:38 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\save.json
+Malicious count: 0
+Timestamp: Tue Apr 25 20:01:08 IST 2023
+
+File path: F:\TODO.md
+Malicious count: 0
+Timestamp: Tue Apr 25 21:39:40 IST 2023
+
+File path: F:\NOTE.md
+Malicious count: 0
+Timestamp: Tue Apr 25 21:46:31 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus.bat
+Malicious count: 14
+Timestamp: Tue Apr 25 21:55:17 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus4.vbs
+Malicious count: 6
+Timestamp: Tue Apr 25 22:00:35 IST 2023
+
+File path: F:\TODO.md
+Malicious count: 0
+Timestamp: Tue Apr 25 22:50:40 IST 2023
+
+File path: F:\NOTE.md
+Malicious count: 0
+Timestamp: Tue Apr 25 22:51:29 IST 2023
+
+File path: F:\TODO.md
+Malicious count: 0
+Timestamp: Tue Apr 25 22:59:21 IST 2023
+
+File path: F:\TODO.md
+Malicious count: 0
+Timestamp: Tue Apr 25 23:12:30 IST 2023
+
