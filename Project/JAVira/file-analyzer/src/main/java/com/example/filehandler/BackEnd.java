@@ -112,7 +112,7 @@ public class BackEnd{
 
 
     // recieve malicious value
-    public static int checkVirus(String f, JsonObject jsonObject){
+    public static int checkVirus(JsonObject jsonObject){
 
         // int logging = 0; 
         int malicious = 0;

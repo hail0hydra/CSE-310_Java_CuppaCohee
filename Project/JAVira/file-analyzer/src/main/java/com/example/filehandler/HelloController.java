@@ -82,7 +82,7 @@ public class HelloController implements Initializable {
         //the method name for check button is checkVirus , and stored it in variable mal .
 
         jo = be.handleAPI(fileAsString);
-        mal = be.checkVirus(fileAsString,jo);
+        mal = be.checkVirus(jo);
         // mal is checked for malicious or not
 
         logKarnaHai = logKarnaHai + 1;
@@ -94,8 +94,8 @@ public class HelloController implements Initializable {
         if (dumpKarnaHai){
             be.dumpJson(fileAsString,jo);
         }
-        jo = be.handleAPI(fileAsString);
-        mal = be.checkVirus(fileAsString,jo);
+        // jo = be.handleAPI(fileAsString);
+        // mal = be.checkVirus(jo);
         if(mal>0){
 
             check.setOnAction(e -> Alertbox.display("Checking for the files" , "Oops! File is malicious!!!"));

@@ -58,3 +58,11 @@ File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus.bat
 Malicious count: 14
 Timestamp: Wed Apr 26 11:51:14 IST 2023
 
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus.bat
+Malicious count: 14
+Timestamp: Wed Apr 26 16:22:49 IST 2023
+
+File path: F:\LPU\Semester 4\JAVA - CSE 310\Project\test\virus2.bat
+Malicious count: 2
+Timestamp: Wed Apr 26 16:27:08 IST 2023
+
