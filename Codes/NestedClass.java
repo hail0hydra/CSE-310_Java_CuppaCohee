@@ -22,6 +22,14 @@ class Cricket{
 
 }
 
+public class NestedC{
+
+    public static void main(){
+
+        Cricket c1 = main(String...args)
+    }
+}
+
 
 public class NestedClass {
     public static void main(String...args){
